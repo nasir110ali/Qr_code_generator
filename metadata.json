@@ -1,0 +1,6 @@
+{
+  "name": "QuickQR - Free Instant QR Code Generator",
+  "description": "Generate free, high-resolution QR codes instantly for URLs, text, Wi-Fi, contacts, and emails. Customize colors and download PNG images with zero signup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
